@@ -48,9 +48,9 @@ export default {
           to: { name: 'index' },
         },
         {
-          title: 'Inspire',
-          icon: 'lightbulb',
-          to: { name: 'inspire' },
+          title: 'Sair',
+          icon: 'logout',
+          to: { name: 'logout' },
         },
       ],
     }
