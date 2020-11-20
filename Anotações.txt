@@ -1,0 +1,12 @@
+Successfully created project nomeprojeto
+
+  To get started:
+
+        cd nuxtjs-authentication
+        npm run dev
+
+  To build & start for production:
+
+        cd nuxtjs-authentication
+        npm run build
+        npm run start
